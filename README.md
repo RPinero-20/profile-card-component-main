@@ -48,12 +48,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 I focused on using and organizing grid templates to get a business card organized and visible on different devices.
 
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [W3School](https://w3schools.com/) - Nothing more to tell you about this page, there are all about HTML and CSS.
