@@ -1,10 +1,10 @@
-# Frontend Mentor - Profile card component solution
+# Frontend Mentor - Sunnyside agency landing page solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Sunnyside agency landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Frontend Mentor - Profile card component solution](#frontend-mentor---profile-card-component-solution)
+- [Frontend Mentor - Sunnyside agency landing page solution](#frontend-mentor---sunnyside-agency-landing-page-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
@@ -12,7 +12,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
@@ -21,46 +21,43 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### The challenge
 
-- Build out the project to the designs provided
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
 
 ### Screenshot
 
-![](./images/my-development.webp)
+![](./images/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/RPinero-20/profile-card-component-main.git)
-- Live Site URL: [Live demo](https://profile-card-component-main-teal.vercel.app/)
+- Solution URL: [Repository](https://github.com/RPinero-20/sunnyside-agency-landing-page-bootstrapped)
+- Live Site URL: [Live](https://rpinero-20.github.io/sunnyside-agency-landing-page-bootstrapped/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- CSS Grid
-- Mobile-first workflow
+- HTML
+- CSS
+- [Bootstrap 4.16](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+- JS
 
-### What I learned
+### Continued development
 
-I focused on using and organizing grid templates to get a business card organized and visible on different devices.
+I try to improve skills using Bootstrap.
 
 ### Useful resources
 
-- [W3School](https://w3schools.com/) - Nothing more to tell you about this page, there are all about HTML and CSS.
-- [freecodecamp.org](https://www.freecodecamp.org/) - This is an amazing site to practice code on-line
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [W3School](https://www.w3schools.com/default.asp)
 
 ## Author
 
-- Website - [Raul Pinero](http://www.raulfix.tk)
-- Frontend Mentor - [@RPinero-20](https://www.frontendmentor.io/profile/RPinero-20)
+- Website - [Raul Pinero @raulfix](https://raulfix-developer.herokuapp.com/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@RPinero-20](https://www.frontendmentor.io/profile/RPinero-20)
 
 ## Acknowledgments
 
 Flexible minds learn to learn.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
